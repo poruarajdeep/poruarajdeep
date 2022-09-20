@@ -1,3 +1,4 @@
+[![MasterHead](https://tenor.com/view/coding-gif-24625099)]
 <h1 align="center">Hi 👋, I'm Rajdeep Porua</h1>
 <h3 align="center">A person who likes data and machines way too much.</h3>
 <img align="right alt="Coding" width="350" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/cdac71056b5fbdcb3907639c74a1f095.gif">
