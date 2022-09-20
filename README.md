@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Porua</h1>
 <h3 align="center">A person who likes data and machines way too much.</h3>
-<img align="right alt="Coding" width="100" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/cdac71056b5fbdcb3907639c74a1f095.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/cdac71056b5fbdcb3907639c74a1f095.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poruarajdeep&label=Profile%20views&color=0e75b6&style=flat" alt="poruarajdeep" /> </p>
 
