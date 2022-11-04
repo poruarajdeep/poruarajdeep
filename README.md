@@ -1,3 +1,4 @@
+[![@poruarajdeep's Holopin board](https://holopin.me/poruarajdeep)](https://holopin.io/@poruarajdeep)
 <h1 align="center">Hi 👋, I'm Rajdeep Porua</h1>
 <h3 align="center">A person who likes data and machines way too much.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/cdac71056b5fbdcb3907639c74a1f095.gif">
@@ -26,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poruarajdeep&show_icons=true&locale=en" alt="poruarajdeep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poruarajdeep&" alt="poruarajdeep" /></p>
-[![@poruarajdeep's Holopin board](https://holopin.me/poruarajdeep)](https://holopin.io/@poruarajdeep)
+
